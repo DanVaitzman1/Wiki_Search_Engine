@@ -21,7 +21,7 @@ As part of the information retrieval course, we were given a task to build a sea
 *  page_rank
 *  pageviews
 
-##Achievement
+## Achievement
 This project was awarded the best project in class due to the high quality of search results produced by our search engine.
 
 Feel free to explore the code and experiment with different retrieval methods and search queries!
