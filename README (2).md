@@ -112,18 +112,6 @@ This project is a search engine built for English Wikipedia as part of the Infor
 
 ---
 
-## License
-
-This project is developed as part of the academic curriculum. Please refer to the course guidelines for usage restrictions.
-
----
-
-## Acknowledgments
-
-Special thanks to the Information Retrieval course team for providing the tools and datasets to build this project.
-
-
----
 
 ## Main Retrieval Methods
 
@@ -167,4 +155,19 @@ Several dictionaries are utilized to enhance retrieval efficiency:
 This project was awarded **the best project in class** due to the high quality of search results produced by our search engine.
 
 Feel free to explore the code and experiment with different retrieval methods and search queries!
+
+---
+
+## Acknowledgments
+
+Special thanks to the Information Retrieval course team for providing the tools and datasets to build this project.
+
+
+---
+
+## License
+
+This project is developed as part of the academic curriculum. Please refer to the course guidelines for usage restrictions.
+
+---
 
